@@ -19,3 +19,7 @@ To perform Exploratory Data Analysis (EDA) on a dataset to extract insights and 
 
 ## Outcome
 The analysis reveals key patterns, trends, and insights useful for business decision-making.
+
+## Google Colab Notebook
+[Open in Colab](https://colab.research.google.com/drive/1U1JbZ8hfmxDrQMSrmMqZRELhCgvV-Ymr?usp=sharing)
+
